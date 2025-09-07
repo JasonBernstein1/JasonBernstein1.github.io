@@ -1,0 +1,21 @@
+---
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jason-bernstein-40b492205/
+    - icon: github
+      text: GitHub
+      href: https://github.com/JasonBernstein1
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=C-_wHcIAAAAJ&hl=en
+---
+
+Some math and some stats.
+
+Not meant to be serious.
+
+2 + 2 is 4.

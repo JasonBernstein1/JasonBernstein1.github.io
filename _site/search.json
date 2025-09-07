@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 6, 2025\n\n\nJason Bernstein\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2025-09-06_welcome/index.html",
+    "href": "posts/2025-09-06_welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Hi, my name is Jason Bernstein. Welcome to my blog. I am thinking of writing short posts here on math and stats topics, like showing realizations of iterated Brownian motion or working through Project Euler problems.\nA few important facts about me:\n\nI live in the Denver metropolitan area\nI am reading Jurassic Park\nI like pizza with banana peppers and feta cheese\nI collect stamps\n\nAnd, scene."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jason Bernstein's Website",
+    "section": "",
+    "text": "Some math and some stats.\nNot meant to be serious.\n2 + 2 is 4."
+  }
+]
