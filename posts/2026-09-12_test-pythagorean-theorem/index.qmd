@@ -26,6 +26,7 @@ all three sides) has radius
 $$
 r = \frac{a+b-c}{2}.
 $$
+Note that $r$ is always positive, since $a+b>c$ by the triangle inequality.
 For $a=3$, $b=4$, $c=5$, this gives $r = \frac{3+4-5}{2} = 1$, so the incircle has
 area $\pi r^2 = \pi$ and circumference $2\pi r = 2\pi$.
 
