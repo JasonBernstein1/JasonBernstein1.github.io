@@ -8,3 +8,15 @@ length $a$ and $b$ and hypotenuse of length $c$,
 $$
 a^2 + b^2 = c^2.
 $$
+
+A simple example is $a=3$, $b=4$, $c=5$, since $3^2 + 4^2 = 9 + 16 = 25 = 5^2$.
+
+```{=html}
+<svg viewBox="0 0 340 260" width="100%" style="max-width: 420px; display: block; margin: 2em auto;" role="img" aria-label="A right triangle with legs 3 and 4 and hypotenuse 5">
+  <polygon points="40,220 40,40 240,220" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" />
+  <path d="M 40,200 L 60,200 L 60,220" fill="none" stroke="currentColor" stroke-width="2" />
+  <text x="20" y="135" fill="currentColor" font-size="16" text-anchor="middle">a = 3</text>
+  <text x="140" y="240" fill="currentColor" font-size="16" text-anchor="middle">b = 4</text>
+  <text x="155" y="120" fill="currentColor" font-size="16" text-anchor="middle" transform="rotate(-42 155 120)">c = 5</text>
+</svg>
+```
