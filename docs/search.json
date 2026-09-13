@@ -4,7 +4,14 @@
     "href": "blog.html",
     "title": "Posts",
     "section": "",
-    "text": "Title\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Title\n\n\n\n\n\n\nTest post - Pythagorean Theorem\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2026-09-12_test-pythagorean-theorem/index.html",
+    "href": "posts/2026-09-12_test-pythagorean-theorem/index.html",
+    "title": "Test post - Pythagorean Theorem",
+    "section": "",
+    "text": "The Pythagorean theorem states that in a right triangle with legs of length \\(a\\) and \\(b\\) and hypotenuse of length \\(c\\), \\[\na^2 + b^2 = c^2.\n\\]"
   },
   {
     "objectID": "index.html",
