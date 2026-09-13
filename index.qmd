@@ -15,7 +15,3 @@ about:
 ---
 
 Some math and some stats.
-
-Not meant to be serious.
-
-2 + 2 is 4.
