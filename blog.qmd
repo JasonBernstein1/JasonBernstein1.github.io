@@ -3,8 +3,8 @@ title: "Posts"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
-  categories: true
+  type: table
+  fields: [title]
   sort-ui: false
   filter-ui: false
 page-layout: full
