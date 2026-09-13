@@ -11,7 +11,7 @@
     "href": "posts/2026-09-12_test-pythagorean-theorem/index.html",
     "title": "Test post - Pythagorean Theorem",
     "section": "",
-    "text": "The Pythagorean theorem states that in a right triangle with legs of length \\(a\\) and \\(b\\) and hypotenuse of length \\(c\\), \\[\na^2 + b^2 = c^2.\n\\]\nA simple example is \\(a=3\\), \\(b=4\\), \\(c=5\\), since \\(3^2 + 4^2 = 9 + 16 = 25 = 5^2\\).\n\n  \n  \n  a = 3\n  b = 4\n  c = 5"
+    "text": "The Pythagorean theorem states that in a right triangle with legs of length \\(a\\) and \\(b\\) and hypotenuse of length \\(c\\), \\[\na^2 + b^2 = c^2.\n\\]\nA simple example is \\(a=3\\), \\(b=4\\), \\(c=5\\), since \\(3^2 + 4^2 = 9 + 16 = 25 = 5^2\\).\n\n  \n  \n  a = 3\n  b = 4\n  c = 5\n\nFor a right triangle, the incircle (the largest circle that fits inside it, tangent to all three sides) has radius \\[\nr = \\frac{a+b-c}{2}.\n\\] For \\(a=3\\), \\(b=4\\), \\(c=5\\), this gives \\(r = \\frac{3+4-5}{2} = 1\\), so the incircle has area \\(\\pi r^2 = \\pi\\) and circumference \\(2\\pi r = 2\\pi\\).\n\n  \n  \n  \n  \n  \n  a = 3\n  b = 4\n  c = 5\n  r = 1"
   },
   {
     "objectID": "index.html",
